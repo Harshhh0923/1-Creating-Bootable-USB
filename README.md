@@ -3,7 +3,7 @@
 ## Requirement
 USB Flash Drive (8GB) 
 Window ISO File ( https://www.microsoft.com/en-ca/software-download/windows10)
-Rufus 
+Rufus ( https://rufus.ie/en/) 
 
 ## Steps 
 Download Rufus from the Rufus website.
