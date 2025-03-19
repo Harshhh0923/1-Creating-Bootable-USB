@@ -1,11 +1,11 @@
-## 1-Creating-Bootable-USB
+# 1-Creating-Bootable-USB
 
-Requirement
+## Requirement
 USB Flash Drive (8GB) 
 Window ISO File ( https://www.microsoft.com/en-ca/software-download/windows10)
 Rufus 
 
-Steps 
+## Steps 
 Download Rufus from the Rufus website.
 Insert your USB drive.
 Open Rufus.
