@@ -2,7 +2,7 @@
 
 Requirement
 USB Flash Drive (8GB) 
-Window ISO File 
+Window ISO File ( https://www.microsoft.com/en-ca/software-download/windows10)
 Rufus 
 
 Steps 
@@ -16,6 +16,4 @@ menu
 Configure settings if needed (partition scheme, file system).
 Click "Start".
 Wait for the process to complete.
-
-Link :( https://www.google.com/search?q=creating+a+bootable+USb&rlz=1C1GCEU_enCA1084CA1084&oq=creating+a+bootable+USb+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCTE1MTIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&sei=d_raZ9nQBo-GptQPi8rOsQw&safe=active&ssui=on) 
 
